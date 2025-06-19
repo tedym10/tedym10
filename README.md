@@ -15,7 +15,7 @@
 
 - **Haik City Government Website**  
   A responsive and accessible website for Haik City Government using Next.js.  
-  🔗 [Live Demo](#) | [GitHub Link](#)  
+  🔗 [Live Demo](#) | [[GitHub Link](https://github.com/tedym10/haik-city-adminstration-website.git)](#)  
 
 ### 🌟 **What I Bring to the Table**  
 - **Problem Solver**: Debugging complex issues and optimizing performance.  
