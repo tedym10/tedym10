@@ -20,11 +20,7 @@
 ### 🌟 **What I Bring to the Table**  
 - **Problem Solver**: Debugging complex issues and optimizing performance.  
 - **Technical Support**: Helping teams troubleshoot and implement solutions.  
-- **Clean Code Advocate**: Writing maintainable and scalable code.  
-
-### 📊 **GitHub Stats**  
-[![Tedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)](https://github.com/tedym10)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/tedym10)  
+- **Clean Code Advocate**: Writing maintainable and scalable code. 
 
 ### 📫 **Let's Connect!**  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ltedy45@gmail.com)  
