@@ -11,7 +11,7 @@
 ### 🚀 **Featured Projects**  
 - **Stock Management System**  
   A full-stack application for inventory tracking built with React, Node.js, and MySQL.  
-  🔗 [GitHub Link](#) *(replace with actual link)*  
+  🔗 [GitHub Link](#) *([replace with actual link](https://tade1.vercel.app/))*  
 
 - **Haik City Government Website**  
   A responsive and accessible website for Haik City Government using Next.js.  
