@@ -1,5 +1,5 @@
 # Hey there, I'm Tedy! 👋  
-### **JavaScript | React | Next.js Developer**  
+### **JavaScript | React | Next.js | Node.js Developer**  
 
 ### 🛠️ **Tech Stack**  
 - **Frontend**: JavaScript (ES6+), React, Next.js, HTML5/CSS3  
