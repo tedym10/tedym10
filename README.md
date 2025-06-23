@@ -5,7 +5,7 @@
 - **Frontend**: JavaScript (ES6+), React, Next.js, HTML5/CSS3  
 - **Backend**: Node.js, Express  
 - **Database**: MySQL  
-- **Tools**: VS Code, Git, GitHub, Postman  
+- **Tools**: VS Code, Git, GitHub, Postman.  
 - **Other Skills**: Problem Solving, Technical Support  
 
 ### 🚀 **Featured Projects**  
