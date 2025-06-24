@@ -24,3 +24,5 @@
 
 ### 📫 **Let's Connect!**  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ltedy45@gmail.com)  
+
+https://tedy-portfolio-h92d.vercel.app/
