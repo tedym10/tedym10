@@ -8,7 +8,7 @@
 - **Tools**: VS Code, Git, GitHub, Postman.  
 - **Other Skills**: Problem Solving, Technical Support  
 
-### 🚀 **Featured Projects**  
+## 🚀 **Featured Projects**  
 - **Stock Management System**  
   A full-stack application for inventory tracking built with React, Node.js, and MySQL.  
   🔗 [GitHub Link](#) *([replace with actual link](https://tade1.vercel.app/))*  
