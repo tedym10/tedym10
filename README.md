@@ -1,4 +1,4 @@
- ## Hey there, I'm Tedy! 👋  
+ ## Hey there, I'm Tedy!   
 ### **JavaScript | React | Next.js | Node.js Developer**  
 
 ## 🛠️ **Tech Stack**  
