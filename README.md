@@ -1,4 +1,4 @@
- ## Hey there, I'm Tedy!   
+ ## Hey there, I'm Tedy! 
 ### **JavaScript | React | Next.js | Node.js Developer**  
 
 ## 🛠️ **Tech Stack**  
@@ -17,9 +17,9 @@
   A responsive and accessible website for Haik City Government using Next.js.  
   🔗 [Live Demo](#) | [[GitHub Link](https://github.com/tedym10/haik-city-adminstration-website.git)](#)  
 
-### 🌟 **What I Bring to the Table**  
+### **What I Bring to the Table**  
 - **Problem Solver**: Debugging complex issues and optimizing performance.  
-- **Technical Support**: Helping teams troubleshoot and implement solutions.  
+- **Technical Support**: Helping teams troubleshoot and implement solution.  
 - **Clean Code Advocate**: Writing maintainable and scalable and clean code. 
 
 ### 📫 **Let's Connect!**  
