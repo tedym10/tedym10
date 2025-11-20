@@ -11,7 +11,14 @@
 ### 🚀 **Featured Projects**  
 - **Stock Management System**  
   A full-stack application for inventory tracking built with React, Node.js, and MySQL.  
-  🔗 [GitHub Link](#) *([replace with actual link](https://tade1.vercel.app/))*  
+  🔗 [GitHub Link](#) *(https://tade1.vercel.app/)*
+
+   - **Haik-tesfa FC Website**
+  A resonsive and accesible website for Haik-tesfa football club in haik city with Next.js. Features real-time Team updates and comprehensive reporting.',
+      github: 'https://github.com/tedym10/haik-tesfa-fc',
+      demo: 'https://haik-tesfa-fc.vercel.app',
+      status: 'Live',
+      image: '⚽'
 
 - **Haik City Government Website**  
   A responsive and accessible website for Haik City Government using Next.js.  
