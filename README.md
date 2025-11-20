@@ -17,10 +17,8 @@
   A resonsive and accesible website for Haik-tesfa football club in haik city with Next.js. Features real-time Team updates and comprehensive reporting.',
       github: 'https://github.com/tedym10/haik-tesfa-fc',
       demo: 'https://haik-tesfa-fc.vercel.app',
-      status: 'Live',
-      image: '⚽'
-
-- **Haik City Government Website**  
+          
+- **Haik City Government Website**
   A responsive and accessible website for Haik City Government using Next.js.  
   🔗 [Live Demo](#) | [[GitHub Link](https://github.com/tedym10/haik-city-adminstration-website.git)](#)  
 
