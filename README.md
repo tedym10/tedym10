@@ -13,7 +13,7 @@
   A full-stack application for inventory tracking built with React, Node.js, and MySQL.  
   🔗 [GitHub Link](#) *(https://tade1.vercel.app/)*
 
-   - **Haik-tesfa FC Website**
+- **Haik-tesfa FC Website**
   A resonsive and accesible website for Haik-tesfa football club in haik city with Next.js. Features real-time Team updates and comprehensive reporting.',
       github: 'https://github.com/tedym10/haik-tesfa-fc',
       demo: 'https://haik-tesfa-fc.vercel.app',
