@@ -1,4 +1,4 @@
- ## Hey there, I'm Tedy! 
+ ## Hey there, I'm Tedy 
 ### **JavaScript | React | Next.js | Node.js Developer**  
 
 ## 🛠️ **Tech Stack**  
@@ -14,7 +14,7 @@
 - **Haik-tesfa FC Website**
   A resonsive and accesible website for Haik-tesfa football club in haik city with Next.js. Features real-time Team updates and comprehensive reporting.',
       github: 'https://github.com/tedym10/haik-tesfa-fc',                              
-      live: 'https://haik-tesfa-fc.vercel.app',
+      live: 'https://haiktesfa.site',
           
 - **Haik City Government Website**
   A responsive and accessible website for Haik City Government using Next.js.  
