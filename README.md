@@ -1,4 +1,4 @@
- ## Hey there, I'm Tedy!
+ ## Hey there, I'm Tedy.
 ### **JavaScript | React | Next.js | Node.js Developer**  
 
 ## 🛠️ **Tech Stack**  
@@ -22,8 +22,8 @@
 
 ### **What I Bring to the Table**  
 - **Problem Solver**: Debugging complex issues and optimizing performance.  
-- **Technical Support**: Helping teams troubleshoot and implement solution.  
-- **Clean Code Advocate**: Writing maintainable and scalable and clean code. 
+- **Technical Support**: Helping teams troubleshoot and implement solutions.  
+- **Clean Code Advocate**: Writing maintainable and scalable and clean codes. 
 
 ### 📫 **Let's Connect!**  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ltedy45@gmail.com)  
