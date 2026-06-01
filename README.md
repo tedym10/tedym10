@@ -1,11 +1,10 @@
  ## Hey there, I'm Tedy
-### **JavaScript | React | Next.js | Node.js Developer**  
+### **JavaScript | React | Next.js | Node.js | Nest.js Developer**  
 
 ## 🛠️ **Tech Stack**  
 - **Frontend**: JavaScript (ES6+), React, Next.js, HTML5/CSS3  
-- **Backend**: Node.js, Express  
-- **Database**: MySQL  
-- **Tools**: VS Code, Git, GitHub, Postman.  
+- **Backend**: Nest.js, Node.js, Express  
+- **Database**: MySQL, Postgres, Supabase, MongoDB
 ### 🚀 **Featured Projects**  
 - **Stock Management System**  
   A full-stack application for inventory tracking built with React, Node.js, and MySQL.  
